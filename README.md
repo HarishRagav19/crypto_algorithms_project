@@ -1,6 +1,5 @@
-CNS Assignment 3 – Web App
 
-This project is a web-based application developed as part of CNS Assignment 3.
+This System is a web-based application developed as part of CNS Assignment 3.
 It uses Streamlit to create an interactive UI, PyCryptodome and PQCrypto for cryptographic operations, and Pyngrok to expose the app to the internet.
 
 🚀 Features
